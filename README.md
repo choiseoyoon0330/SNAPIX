@@ -11,7 +11,7 @@ designed to store and share meaningful moments.**
 ![Snapix Home](https://github.com/user-attachments/assets/c88445e6-7e90-407c-9edb-1a79fce5c076)
 
 ## Stack
-<img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" height="30"/>  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" height="30"/>  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" height ="30"/>
+<img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" height="30"/>  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" height="30"/>  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" height ="30"/><br>
 
 ## Features
 **`Gallery`:** Upload photos exactly as you shot them — no cropping required.
