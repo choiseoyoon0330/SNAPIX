@@ -7,12 +7,7 @@
 
 **SNAPIX is an online platform for photographers,   
 designed to store and share meaningful moments.**
-
-
-<a href="https://apps-sookmyung.github.io/2023-SNAPIX/index.html" target="_blank">
-  <img src="https://img.shields.io/badge/🔗_Visit_Website-000000?style=for-the-badge&logoColor=white" height="35"/>
-</a>
-
+<br><br>
 ![Snapix Home](https://github.com/user-attachments/assets/c88445e6-7e90-407c-9edb-1a79fce5c076)
 
 ## Stack
