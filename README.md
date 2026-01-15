@@ -9,7 +9,7 @@
 designed to store and share meaningful moments.**
 
 
-<a href="https://당신의-웹사이트-주소.com" target="_blank">
+<a href="https://apps-sookmyung.github.io/2023-SNAPIX/index.html" target="_blank">
   <img src="https://img.shields.io/badge/🔗_Visit_Website-000000?style=for-the-badge&logoColor=white" height="35"/>
 </a>
 
